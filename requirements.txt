@@ -1,0 +1,16 @@
+# Core
+streamlit>=1.36.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF handling
+PyPDF2>=3.0.1
+pdfplumber>=0.9.0
+
+# Embeddings & NLP
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+
+# Google Gemini API
+google-generativeai>=0.7.0

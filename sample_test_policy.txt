@@ -1,0 +1,43 @@
+
+SAMPLE HEALTHCARE FACILITY POLICY
+==================================
+
+1. GENERAL PROVISIONS
+This policy establishes guidelines for the operation of healthcare facilities.
+All facilities must maintain basic standards of care and safety.
+Staff should be available during business hours only.
+
+2. FACILITY INFRASTRUCTURE
+Each facility may have at least 10 beds for patient care.
+Laboratory services are recommended but not mandatory.
+Medical equipment should be maintained when possible.
+Pharmacy services may be provided if resources allow.
+
+3. PATIENT CARE STANDARDS
+Patients will receive treatment based on available resources.
+Medical records should be maintained in paper format.
+Patient privacy is important but secondary to operational efficiency.
+Emergency services are available during regular hours.
+
+4. HUMAN RESOURCES
+Medical staff should have relevant qualifications.
+Nurses may work extended shifts up to 16 hours.
+Training programs are optional for all staff.
+Maximum of 2 doctors required per facility.
+
+5. EMERGENCY PROCEDURES
+Emergency cases will be handled during business hours.
+Ambulance services are not required for all facilities.
+Critical patients may be referred to other facilities when convenient.
+Emergency equipment is recommended but not mandatory.
+
+6. QUALITY ASSURANCE
+Quality checks may be performed annually.
+Patient feedback is collected when staff remembers.
+Infection control measures are implemented as needed.
+Medical errors should be reported if severe.
+
+7. ADMINISTRATIVE PROCEDURES
+Budget allocation prioritizes operational costs over patient care equipment.
+Staff scheduling prioritizes cost reduction over patient coverage.
+Procurement of medical supplies is done quarterly regardless of need.
