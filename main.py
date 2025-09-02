@@ -15,7 +15,8 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Initialize models
 model = genai.GenerativeModel("gemini-2.5-flash")
-summarizer = pipeline("summarization", model="facebook/bart-large-cnn")  # ✅ BART summarizer
+summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
+
 
 # Streamlit UI
 st.set_page_config(page_title="Policy Audit & Remedy System", layout="wide")
@@ -111,3 +112,4 @@ elif audit_type == "Corporate Audit":
 
             st.success("Audit Completed ✅")
             st.write(response.text)
+
