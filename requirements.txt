@@ -1,5 +1,5 @@
 # Core
-streamlit=1.49.1
+streamlit==1.49.1
 pandas>=2.0.0
 numpy>=1.24.0
 
@@ -16,4 +16,5 @@ sentence-transformers>=2.2.0
 google-generativeai>=0.7.0
 
 python-dotenv
+
 
