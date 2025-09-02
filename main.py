@@ -15,7 +15,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Initialize models
 model = genai.GenerativeModel("gemini-2.5-flash")
-summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")  # ✅ BART summarizer
 
 
 # Streamlit UI
